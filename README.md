@@ -4,11 +4,12 @@
 ## Work on my Machine 💯
 ## Details
 1. WM: [i3](https://i3wm.org/)
-2. Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-3. Shell: [Zsh](https://www.zsh.org/)
-4. [Zsh](https://www.zsh.org/) Framework: [Oh My Zsh](https://ohmyz.sh/)
-5. Text Editor: [VIM](https://www.vim.org)
-6. System Information: [Neofetch](https://github.com/dylanaraps/neofetch)
+2. Panel: [i3blocks](https://vivien.github.io/i3blocks/)
+3. Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+4. Shell: [Zsh](https://www.zsh.org/)
+5. [Zsh](https://www.zsh.org/) Framework: [Oh My Zsh](https://ohmyz.sh/)
+6. Text Editor: [VIM](https://www.vim.org)
+7. System Information: [Neofetch](https://github.com/dylanaraps/neofetch)
 
 
 <!-- !['VIM Logo'](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg) -->
