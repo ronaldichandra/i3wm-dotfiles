@@ -10,6 +10,7 @@
 5. [Zsh](https://www.zsh.org/) Framework: [Oh My Zsh](https://ohmyz.sh/)
 6. Text Editor: [VIM](https://www.vim.org)
 7. System Information: [Neofetch](https://github.com/dylanaraps/neofetch)
+8. Compositor: [Picom](https://github.com/yshui/picom)
 
 
 <!-- !['VIM Logo'](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg) -->
