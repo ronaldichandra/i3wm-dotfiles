@@ -1,5 +1,5 @@
 # dotfiles [Work In Progress]
-https://forthebadge.com/images/badges/works-on-my-machine.svg
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 ## Details
 1. WM: [i3](https://i3wm.org/)
