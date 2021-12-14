@@ -1,5 +1,5 @@
 # dotfiles [Work In Progress]
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)]
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
 ## Work on my Machine 💯
 ## Details
