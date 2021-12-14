@@ -1,3 +1,5 @@
+" My Personal Configuration
+
 syntax on " Enable syntax highlighting
 set number " Show line numbers on the sidebar
 " set hlsearch " Enable Search highlighting
