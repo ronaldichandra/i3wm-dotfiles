@@ -190,7 +190,7 @@ bar {
         colors {
                 background #F5F5F5
                 statusline #121212
-                focused_workspace #a3be8c #423F3E #eff1f5
+                focused_workspace #a3be8c #423f3e #eff1f5
         }
  }
 
