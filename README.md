@@ -1,4 +1,4 @@
-# dotfiles [Work In Progress]
+# dotfiles
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
 !['ss1'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/Screenshot%20from%202021-12-21%2008-43-54.png)
