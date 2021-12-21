@@ -18,7 +18,7 @@
 
 How to install i3wm?
 ```
-pacman -S i3
+sudo pacman -S i3
 
 ```
 
