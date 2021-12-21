@@ -16,5 +16,10 @@
 8. Compositor: [Picom](https://github.com/yshui/picom)
 9. Screenshot: Gnome Screenshot
 
+How to install i3wm?
+```
+pacman -S i3
+
+```
 
 <!-- !['VIM Logo'](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg) -->
