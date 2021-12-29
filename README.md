@@ -21,5 +21,3 @@ How to install i3wm?
 sudo pacman -S i3
 
 ```
-
-<!-- !['VIM Logo'](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg) -->
