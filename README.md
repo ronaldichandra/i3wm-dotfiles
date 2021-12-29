@@ -2,7 +2,7 @@
 ### my personal configuration
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
-!['ss1'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/ss.png)
+!['ss1'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss.png)
 
 ## Work on my Machine 💯
 ## Details
