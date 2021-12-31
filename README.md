@@ -7,16 +7,16 @@
 
 ## htop & neofetch preview
 !['ss2'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss2.jpg)
-##### HTOP
+#### HTOP
 > htop is an interactive system-monitor process-viewer and process-manager. It is designed as an alternative to the Unix program top.
-Installation:
+##### Installation:
 ```
 sudo pacman -S htop
 
 ```
-##### Neofetch
+#### Neofetch
 > Neofetch is a command-line system information tool written in bash 3.2+ 
-Installation:
+##### Installation:
 ```
 sudo pacman -S neofetch
 
