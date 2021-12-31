@@ -2,8 +2,10 @@
 ### my personal configuration
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
+## Desktop preview
 !['ss1'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss.png)
 
+## htop & neofetch preview
 !['ss2'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss2.jpg)
 
 ## Work on my Machine 💯
