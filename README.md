@@ -25,3 +25,7 @@ How to install i3wm?
 sudo pacman -S i3
 
 ```
+
+Wallpaper source:
+1. https://twitter.com/bestofsquarenix/status/1410402780397899784
+2. https://www.wallpaperflare.com/
