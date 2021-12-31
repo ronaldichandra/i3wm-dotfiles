@@ -27,5 +27,5 @@ sudo pacman -S i3
 ```
 
 Wallpaper source:
-1. https://twitter.com/bestofsquarenix/status/1410402780397899784
-2. https://www.wallpaperflare.com/
+1. Tifa Lockhart: https://twitter.com/bestofsquarenix/status/1410402780397899784
+2. Irelia Wild Rift: https://www.wallpaperflare.com/
