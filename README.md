@@ -4,6 +4,9 @@
 
 !['ss1'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss.png)
 
+!['ss2']
+(https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss2.jpg)
+
 ## Work on my Machine 💯
 ## Details
 1. WM: [i3](https://i3wm.org/)
