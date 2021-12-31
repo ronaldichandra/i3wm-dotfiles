@@ -7,6 +7,18 @@
 
 ## htop & neofetch preview
 !['ss2'](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/screenshots/sss2.jpg)
+HTOP install
+```
+sudo pacman -S htop
+
+```
+
+Neofetch install
+```
+sudo pacman -S i3
+
+```
+
 
 ## Work on my Machine 💯
 ## Details
