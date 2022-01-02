@@ -214,3 +214,6 @@ gaps outer 12
 
 # Feh
 # exec --no-startup-id /usr/bin/feh --bg-scale '/home/ian/Pictures/wallpapers/22.jpg'
+
+# Nitrogen
+exec --no-startup-id nitrogen --restore 
