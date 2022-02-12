@@ -1,4 +1,4 @@
-![i3wm-logo](https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/sss.png | width=100)
+<img src="https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/sss.png" width="100"/>
 
 # dotfiles
 ### my personal configuration
