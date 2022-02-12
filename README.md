@@ -1,5 +1,7 @@
+<p align="center">
 <img src="https://raw.githubusercontent.com/sarzatmeniye/dotfiles/main/sss.png" width="100"/>
-
+</p>
+                                                                                           
 # dotfiles
 ### my personal configuration
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
